@@ -20,18 +20,6 @@ This smart home automation project automatically waters plants based on real-tim
 - Solenoid Valve + Water Pump
 - OLED Display
 - MOSFETs, USB Power
-
----
-
-## 🗂️ File Structure
-
-
----
-
-## 📄 Project Report
-📎 [Report.pdf](./Report.pdf)  
-Contains system overview, procedure, technical specifications, and outcomes.
-
 ---
 
 ## 👨‍💻 What I Learned
